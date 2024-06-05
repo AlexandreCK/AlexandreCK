@@ -13,12 +13,12 @@ I'm a passionate software developer specializing in both frontend and backend de
 - **Backend:** Python, PHP, Node.js
 - **Database:** MySQL, MongoDB
 
-<> (## GitHub Stats:)
+[//]: # "## GitHub Stats:"
 
-<> (// ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreCK&show_icons=true&theme=radical))
+[//]: # "// ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreCK&show_icons=true&theme=radical)"
 
-<> (## GitHub Trophies)
+[//]: # "## GitHub Trophies"
 
-<> (![trophy](https://github-profile-trophy.vercel.app/?username=AlexandreCK&theme=radical))
+[//]: # "![trophy](https://github-profile-trophy.vercel.app/?username=AlexandreCK&theme=radical)"
 
-[//]: # "Comment"
+[//]: # "these are the comment enablers: [//]: #"
