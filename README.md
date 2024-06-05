@@ -15,7 +15,7 @@ I'm a passionate software developer specializing in both frontend and backend de
 
 ## GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreCKe&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreCK&show_icons=true&theme=radical)
 
 ## GitHub Trophies
 
