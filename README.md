@@ -20,3 +20,5 @@ I'm a passionate software developer specializing in both frontend and backend de
 <> (## GitHub Trophies)
 
 <> (![trophy](https://github-profile-trophy.vercel.app/?username=AlexandreCK&theme=radical))
+
+[//]: # "Comment"
