@@ -1,6 +1,6 @@
 # Hola, I'm Alexandre!
 
-<img src="https://static-00.iconduck.com/assets.00/catalonia-icon-512x384-iubl06da.png" alt="Catalan Flag Emoji" width="15" height="11" style="vertical-align: middle; border-radius: 10px;"> 🇪🇸 🇬🇧 🇨🇳
+<img src="https://static-00.iconduck.com/assets.00/catalonia-icon-512x384-iubl06da.png" alt="Catalan Flag Emoji" width="15.8" height="11.8" style="vertical-align: middle; border-radius: 20%;"> 🇪🇸 🇬🇧 🇨🇳
 
 I'm a passionate software developer specializing in both frontend and backend development. I love building innovative solutions and contributing to open source projects. As a student, I'm constantly learning and exploring new technologies.
 
