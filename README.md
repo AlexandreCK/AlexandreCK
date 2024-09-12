@@ -20,7 +20,9 @@ I'm a passionate software developer specializing in both frontend and backend de
 
 ## How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-ck/)
+- Explore my work and projects on my [**personal website**](https://alexandreck.dev).
+- Connect with me on [**LinkedIn**](https://www.linkedin.com/in/alexandre-ck/)!
+
 
 ---
  <!-- [![](https://visitcount.itsvg.in/api?id=AlexandreCK&icon=0&color=0)](https://visitcount.itsvg.in) -->
