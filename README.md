@@ -1,72 +1,60 @@
-# Hola, I'm **Alexandre**!  
+# Hola, I'm **Alexandre**
 
 🇪🇸 🇬🇧 🇨🇳  
 
-I'm a developer driven by a passion for programming, constantly learning and refining my skills to turn that passion into a meaningful career.
+A developer fueled by curiosity, driven by a passion for clean code, and always learning.
 
 ---
 
-## About Me  
+### About Me
 
-- **Currently Learning**: C#, .NET, React, Node.js.
-- **Current Focus**: Building interesting projects during my internships.
-- **Open to Collaborate On**: Exciting **open-source projects**.
-- **Languages**: I love exploring diverse cultures and am fluent in **Catalan, Spanish, and English**. I'm also learning **Chinese**! 
-
----
-
-## My Tech Stack  
-
-<table>
-  <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Database & Tools</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>  
-      <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>  
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>  
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>  
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>  
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>  
-      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>  
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>  
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>  
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>  
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>  
-      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>  
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>  
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>  
-      <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="GIMP"/>  
-      <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>  
-    </td>
-  </tr>
-</table>
+- **Learning**: C#, .NET, React, Node.js, Python
+- **Focus**: Building cool projects during internships  
+- **I'd like to collaborate on**: Open-source and community-driven tools  
+- **Languages**: Fluent in **Catalan, Spanish, English**, learning **Chinese**  
 
 ---
 
-## GitHub Stats  
+### Tech Stack
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreCK&layout=compact&theme=radical" alt="Top Languages"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreCK&theme=radical" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
+#### Frontend  
+![HTML](https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61dafb)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38b2ac?style=flat&logo=tailwind-css&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+
+#### Backend  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5c2d91?style=flat&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6da55f?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+#### Database & Tools  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-657D8B?style=flat&logo=gimp&logoColor=white)
 
 ---
 
-## Let's Connect  
+### GitHub Stats
 
-- 🌎 Explore my work on my [**Personal Website**](https://alexandreck.dev) (a work in progress!)  
-- 💼 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/alexandre-ck/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreCK&layout=compact&theme=tokyonight" height="140"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreCK&theme=tokyonight" height="140"/>
+</p>
+
+---
+
+### Connect with Me
+
+- [**Personal Website**](https://alexandreck.dev)
+-  [**LinkedIn**](https://www.linkedin.com/in/alexandre-ck/)
+
